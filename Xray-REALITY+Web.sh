@@ -4493,9 +4493,9 @@ start_menu()
     tyblue "  19. 修改伪装网站类型"
     tyblue "  20. 修改传输协议"
     tyblue "  21. 修改VLESS/VMess协议id(用户ID/UUID)"
-    tyblue "  22. 重新生成密钥对(修改REALITY协议publicKey)"
-    tyblue "  23. 修改gRPC协议serviceName"
-    tyblue "  24. 修改WebSocket协议path(路径)"
+    tyblue "  22. 修改gRPC协议serviceName"
+    tyblue "  23. 修改WebSocket协议path(路径)"
+    tyblue "  24. 重新生成密钥对(修改REALITY协议publicKey)"
     echo
     tyblue " ----------------其它----------------"
     tyblue "  25. 精简系统"
